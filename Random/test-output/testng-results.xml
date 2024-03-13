@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[1]]>
+    </line>
+    <line>
+      <![CDATA[2]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69" started-at="2024-03-09T03:44:10Z" finished-at="2024-03-09T03:44:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69" started-at="2024-03-09T03:44:10Z" finished-at="2024-03-09T03:44:10Z">
+      <class name="Testnng.Trial">
+        <test-method status="PASS" signature="test()[pri:0, instance:Testnng.Trial@56f4468b]" name="test" duration-ms="16" started-at="2024-03-09T03:44:10Z" finished-at="2024-03-09T03:44:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Testnng.Trial@56f4468b]" name="test1" duration-ms="5" started-at="2024-03-09T03:44:10Z" finished-at="2024-03-09T03:44:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- Testnng.Trial -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
